@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Board</string>
+    <string name="movie_name_hint">Enter Movie Name</string>
+    <string name="iv_poster_desc">poster</string>
+    <string name="ib_delete_desc">delete</string>
+    <string name="ib_update_desc">edit</string>
+    <string name="fab_add_desc">add</string>
+    <string name="et_name_text">Insert Movie Name</string>
+    <string name="et_img_text">Insert Url</string>
+    <string name="btn_add_text">Insert</string>
+</resources>

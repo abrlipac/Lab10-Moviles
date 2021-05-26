@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "252837481058",
+    "project_id": "fbexample-8c4e3",
+    "storage_bucket": "fbexample-8c4e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252837481058:android:b22be8f330f53e6da99f3b",
+        "android_client_info": {
+          "package_name": "tech.abralica.fbdbexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252837481058-djjmk0cklo1kmdu387rv05qb4cabpmms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.abralica.fbdbexample",
+            "certificate_hash": "906721d0bae29664b38f17be42d45e811bffcabf"
+          }
+        },
+        {
+          "client_id": "252837481058-htf7iftm449eea7v2c72h3vv6jr0ok34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvLueh4DR9CGuTC4017eYvKZyo42_lxfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252837481058-htf7iftm449eea7v2c72h3vv6jr0ok34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
